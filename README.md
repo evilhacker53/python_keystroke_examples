@@ -5,4 +5,8 @@ python codes with exe
 
 
 install dependencies on windows
+
+
+
+
 pip install pynput --user

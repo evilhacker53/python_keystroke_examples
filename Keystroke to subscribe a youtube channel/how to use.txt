@@ -1,3 +1,4 @@
 how to use
 1.replace this with your you tube channel link keyboard.type('https://www.youtube.com/user/PewDiePie') line from test.py
 2.if you are using chrome then replace keyboard.type('firefox') line from test.py
+3.run test.py

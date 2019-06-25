@@ -11,6 +11,7 @@ install dependencies on windows
 
 pip install pynput --user  
 
+pip install pyautogui --user
 
 
 refer to this github page for changing your python keystrokes to exe-https://github.com/brentvollebregt/auto-py-to-exe

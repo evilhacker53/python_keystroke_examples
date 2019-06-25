@@ -1,0 +1,3 @@
+how to use:
+1.replace keyboard.type('cd desktop') in 1.py with the location of directory where you have stored this folder
+2.edit 1.bat with notepad and  replace this "C:\Users\Public\Desktop" with location from where you want to copy files and   ":E:\" with drive location of your usb
